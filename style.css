@@ -14,3 +14,8 @@ h3 {
 .red {
   color: red;
 }
+
+.img-thumbnail {
+  width: 600px; /* Ancho de la imagen */
+  height:600px; /* Alto de la imagen */
+}
